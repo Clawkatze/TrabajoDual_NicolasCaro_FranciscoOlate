@@ -1,0 +1,10 @@
+pc001,Procesador,Intel,Core i5-14600k,LGA1700,50,218990
+pc002,Procesador,AMD,Ryzen 6 8600g,AM5,50,228990
+mb001,Motherboard,Gigabyte,B650M K,AM5,30,143990
+mb002,Motherboard,Asus,Prime Z790M-PLUS,LGA1700,30,249990
+gc001,Tarjeta video,NVIDIA,ASUS RTX4070S,1x16pines(12VHPWR),20,719990
+gc002,Tarjeta video,AMD,ASUS RX 7700 XT OC",2x8 pines,20,464990
+rm001,Memoria RAM,Kingston,Kingston Fury Beast(1 x 16GB),DDR5,40,57990
+mm001,HDD",Western Digital,Western Digital Blue 2 TB,SATA 3,60,60990
+mm002,SSD",Samsung,Samsung 980 Pro 1 TB,M.2 NVMe,55,140000
+fp001,Fuente Poder,Cooler Master,Cooler Master G700(700W),ATX,30,99990
